@@ -29,7 +29,7 @@ function CadastroCurso({ onAdd }) {
             display: "flex",
             justifyContent: "center",
             alignItems: "center",
-            height: "100%",
+            height: "100vh",
             backgroundColor: "#799cd4"
         }}>
             <div style={{
